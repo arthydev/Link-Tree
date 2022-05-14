@@ -1,0 +1,35 @@
+@media (max-width: 428px){
+
+.container{
+    background-color: aliceblue;
+    width: 360px;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    margin-top: 70px;
+
+    filter: drop-shadow(1px 1px 10px rgba(255, 180, 239, 0.479));
+}
+
+}
+
+@media (max-width: 360px){
+
+.container{
+    background-color: aliceblue;
+    width: 340px;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    margin-top: 70px;
+
+    filter: drop-shadow(1px 1px 10px rgba(255, 180, 239, 0.479));
+}
+
+}
